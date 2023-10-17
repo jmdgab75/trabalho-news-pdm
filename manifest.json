@@ -20,8 +20,8 @@
         }
     ],
         "lang": "pt-BR",
-        "theme_color": "#6E8658"
-        "background_color": "#D0D5CE"
-        "display": "standalone"
+        "theme_color": "#6E8658",
+        "background_color": "#D0D5CE",
+        "display": "standalone",
         "start_url": "/index.html"
 }
